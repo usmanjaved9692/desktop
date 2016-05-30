@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name ="BuilAutomation" default = "delete" basedir = ".">
+<target name = "delete">
+
+<delete dir = "bin">
+
+</delete>
+
+</target>
+
+
+
+</project>

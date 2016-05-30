@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name = "BuildAutomation" default ="info">
+<target name ="info">
+<echo>Welcome to Software Construction Lab 7
+
+
+</echo>
+
+</target>
+
+
+</project>"s
